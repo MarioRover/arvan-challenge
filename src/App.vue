@@ -1,3 +1,3 @@
 <template>
-  <h1>Arvan Cloud Challange</h1>
+  <h1 class="text-3xl font-bold">Arvan Cloud Challange</h1>
 </template>
